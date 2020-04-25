@@ -8,6 +8,7 @@
 
 TEAM ID:35
 
+
 ****How to run Code****
 
 There are 2 files in this project
@@ -21,14 +22,14 @@ Main.ipynb contains preprocessing, aggregation and plotting of our dataset.
 It calls the MyDBSCAN function when required.
 
 
+****PLOTS****
+
+Plots and graphs of all the states and that of national level cluster can be found in the plots folder(in the respective cluster folder)
+
 ****IMPORTANT NOTE****
 
 Everywhere in the code and report:
 Current Population means number of people residing in that particular area.
 Covered Population means number of people having access to water in that area.
 
-Extract data.rar file.
-
-
-****PLOTS****
-Plots and graphs of all the states and that of national level cluster can be found in the plots folder(in the respective cluster folder)
+Extract the data.rar file.
