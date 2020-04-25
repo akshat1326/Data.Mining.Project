@@ -2,16 +2,16 @@
  
 
 ****TEAM DETAILS****
-1)ABHISHEK BHARDWAJ(2017A7PS1497H)
-2)AKSHAT GUPTA(2017A7PS1699H)
-3)ARUN INANI(2017A7PS0085H)
+1) Abhishek Bhardwaj(2017A7PS1497H)
+2) Akshat Gupta(2017A7PS1699H)
+3) Arun Inani(2017A7PS0085H)
 
 TEAM ID:35
 
 ****How to run Code****
 There are 2 files in this project
-1)Dbscan.ipynb
-2)Main.ipynb
+1) Dbscan.ipynb
+2) Main.ipynb
 
 File 1 contains the complete code to perform dbscan on a dataset.
 The main function in this file is MyDBSCAN,it takes three inputs a dataset files(a list of vectorrs),threshold distance and minimum points in a cluster.
