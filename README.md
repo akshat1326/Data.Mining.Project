@@ -16,10 +16,9 @@ There are 2 files in this project
 File 1 contains the complete code to perform dbscan on a dataset.
 The main function in this file is MyDBSCAN,it takes three inputs a dataset files(a list of vectorrs),threshold distance and minimum points in a cluster.
 
-File 2(main.py) preprocessing,aggregation,and plotting of our dataset.
+File 2 contains preprocessing, aggregation and plotting of our dataset.
 It calls the MyDBSCAN function when required.
 
-For running the code, you need to run main.py. 
 
 ****IMPORTANT NOTE****
 Everywhere in the code and report:
