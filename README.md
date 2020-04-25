@@ -14,10 +14,10 @@ There are 2 files in this project
 1) Dbscan.ipynb
 2) Main.ipynb
 
-File 1 contains the complete code to perform dbscan on a dataset.
+Dbscan.ipynb contains the complete code to perform dbscan on a dataset.
 The main function in this file is MyDBSCAN,it takes three inputs a dataset files(a list of vectorrs),threshold distance and minimum points in a cluster.
 
-File 2 contains preprocessing, aggregation and plotting of our dataset.
+Main.ipynb contains preprocessing, aggregation and plotting of our dataset.
 It calls the MyDBSCAN function when required.
 
 
