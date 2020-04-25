@@ -25,6 +25,7 @@ It calls the MyDBSCAN function when required.
 Everywhere in the code and report:
 Current Population means number of people residing in that particular area.
 Covered Population means number of people having access to water in that area.
+Extract data.rar file.
 
 
 ****PLOTS****
