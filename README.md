@@ -6,7 +6,7 @@
 2) Akshat Gupta(2017A7PS1699H)
 3) Arun Inani(2017A7PS0085H)
 
-TEAM ID:35
+TEAM ID: 35
 
 
 ****How to run Code****
@@ -24,7 +24,14 @@ It calls the MyDBSCAN function when required.
 
 ****PLOTS****
 
-Plots and graphs of all the states and that of national level cluster can be found in the plots folder(in the respective cluster folder)
+The clusters and outliers detected and depicted in this image</br>
+![alt text](https://github.com/akshat1326/Data.Mining.Project/blob/master/Plots/national%20level/national_cluster_on_map.png)
+![alt text](https://github.com/akshat1326/Data.Mining.Project/blob/master/Plots/national%20level/national%20level%20clusters.png)
+
+The total covered and current populations can be compared here</br>
+![alt text](https://github.com/akshat1326/Data.Mining.Project/blob/master/Plots/national%20level/total_covered_population_pie.jpg)
+![alt text](https://github.com/akshat1326/Data.Mining.Project/blob/master/Plots/national%20level/total_current_population_pie.jpg)
+
 
 ****IMPORTANT NOTE****
 
